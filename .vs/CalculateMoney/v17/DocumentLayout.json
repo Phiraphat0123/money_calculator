@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\study\\learning\\C#\\CalculateMoney\\",
+  "WorkspaceRootPath": "D:\\study\\learning\\C#\\money_calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{512DD890-2A78-4F8E-914A-92027E9010C8}|CalculateMoney\\CalculateMoney.csproj|d:\\study\\learning\\c#\\calculatemoney\\calculatemoney\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{512DD890-2A78-4F8E-914A-92027E9010C8}|CalculateMoney\\CalculateMoney.csproj|solutionrelative:calculatemoney\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{512DD890-2A78-4F8E-914A-92027E9010C8}|CalculateMoney\\CalculateMoney.csproj|d:\\study\\learning\\c#\\calculatemoney\\calculatemoney\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{512DD890-2A78-4F8E-914A-92027E9010C8}|CalculateMoney\\CalculateMoney.csproj|D:\\study\\learning\\C#\\money_calculator\\calculatemoney\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{512DD890-2A78-4F8E-914A-92027E9010C8}|CalculateMoney\\CalculateMoney.csproj|solutionrelative:calculatemoney\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{512DD890-2A78-4F8E-914A-92027E9010C8}|CalculateMoney\\CalculateMoney.csproj|d:\\study\\learning\\c#\\calculatemoney\\calculatemoney\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{512DD890-2A78-4F8E-914A-92027E9010C8}|CalculateMoney\\CalculateMoney.csproj|d:\\study\\learning\\c#\\money_calculator\\calculatemoney\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512DD890-2A78-4F8E-914A-92027E9010C8}|CalculateMoney\\CalculateMoney.csproj|solutionrelative:calculatemoney\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512DD890-2A78-4F8E-914A-92027E9010C8}|CalculateMoney\\CalculateMoney.csproj|D:\\study\\learning\\C#\\money_calculator\\calculatemoney\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{512DD890-2A78-4F8E-914A-92027E9010C8}|CalculateMoney\\CalculateMoney.csproj|solutionrelative:calculatemoney\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -22,15 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\study\\learning\\C#\\CalculateMoney\\CalculateMoney\\App.xaml",
+              "DocumentMoniker": "D:\\study\\learning\\C#\\money_calculator\\CalculateMoney\\App.xaml",
               "RelativeDocumentMoniker": "CalculateMoney\\App.xaml",
-              "ToolTip": "D:\\study\\learning\\C#\\CalculateMoney\\CalculateMoney\\App.xaml",
+              "ToolTip": "D:\\study\\learning\\C#\\money_calculator\\CalculateMoney\\App.xaml",
               "RelativeToolTip": "CalculateMoney\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-07T11:27:24.402Z",
@@ -38,11 +38,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\study\\learning\\C#\\CalculateMoney\\CalculateMoney\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\study\\learning\\C#\\money_calculator\\CalculateMoney\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CalculateMoney\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\study\\learning\\C#\\CalculateMoney\\CalculateMoney\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\study\\learning\\C#\\money_calculator\\CalculateMoney\\MainWindow.xaml.cs",
               "RelativeToolTip": "CalculateMoney\\MainWindow.xaml.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAuwCgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +51,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\study\\learning\\C#\\CalculateMoney\\CalculateMoney\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\study\\learning\\C#\\money_calculator\\CalculateMoney\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CalculateMoney\\MainWindow.xaml",
-              "ToolTip": "D:\\study\\learning\\C#\\CalculateMoney\\CalculateMoney\\MainWindow.xaml",
+              "ToolTip": "D:\\study\\learning\\C#\\money_calculator\\CalculateMoney\\MainWindow.xaml",
               "RelativeToolTip": "CalculateMoney\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-06T09:23:05.641Z",
